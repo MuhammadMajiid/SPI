@@ -1,2 +1,3 @@
 # SPI
-SPI Protocol Implementation using SystemVerilog HDL
+
+## SPI Protocol Implementation using SystemVerilog HDL
